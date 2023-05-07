@@ -1,4 +1,4 @@
-# Projeto desenvolvido por instruturos da Kenzie
+# Projeto desenvolvido por instrutores da Kenzie
 A parte desafio foi criar os elementos da navbar exceto a montagem da página de personagens, outras funções do navbar foram feitas por mim como desafio proposto.
 
 
