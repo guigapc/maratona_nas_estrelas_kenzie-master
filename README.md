@@ -1,3 +1,9 @@
+# Projeto desenvolvido por instruturos da Kenzie
+A parte desafio foi criar os elementos da navbar exceto a montagem da página de personagens, outras funções do navbar foram feitas por mim como desafio proposto.
+
+
+
+
 # Maratona-nas-estrelas
 
 Projeto desenvolvido para o evento Maratona Kenzie dia 06/05/2023.
